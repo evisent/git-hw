@@ -1,0 +1,36 @@
+commit 7633be13a6f752885d21b9dadcb80b1cf5619075
+Merge: 630e323 e40df71
+Author: Denis <denis@MacBook-Pro-Denis.local>
+Date:   Thu Oct 8 19:23:38 2026 +0300
+
+    merge feature-b: решен конфликт
+
+commit e40df71bad352cc9f851f332f1fe020169055148
+Author: Denis <denis@MacBook-Pro-Denis.local>
+Date:   Thu Oct 8 19:16:36 2026 +0300
+
+    feature-b: изменена строка
+
+commit 630e323888ca37d1db2443a512855bf8e6f87d2a
+Author: Denis <denis@MacBook-Pro-Denis.local>
+Date:   Thu Oct 8 19:11:25 2026 +0300
+
+    main: изменена строка
+
+commit 2ac0225dfcb968c18b65a3002f136c5c147a633f
+Author: Denis <denis@MacBook-Pro-Denis.local>
+Date:   Thu Oct 8 18:45:41 2026 +0300
+
+    feature-b: добавлено содержание строк 3 и 4
+
+commit 694e75e5b9c8bf0208be6f9fa066837553b84030
+Author: Denis <denis@MacBook-Pro-Denis.local>
+Date:   Thu Oct 8 18:44:07 2026 +0300
+
+    feature-a: добавлено содержание строк 3 и 4
+
+commit ca8e12992aaa1d1c091ff8bde40fc352bf7af078
+Author: Denis <denis@MacBook-Pro-Denis.local>
+Date:   Thu Oct 8 18:41:40 2026 +0300
+
+    first commit
